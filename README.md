@@ -35,9 +35,7 @@ This repository contains the complete kinematic and dynamic modeling of the **AB
 * `scripts/`: Contains the MATLAB `.m` files for kinematics, inverse kinematics, Jacobian analysis, and dynamics.
 * `report/`: Comprehensive academic paper detailing theoretical foundations and plotted results (Position, Velocity, Torques).
 
-## 👨‍💻 Authors
+## 👨‍💻 Author
 * Sergio Gil Martínez
-* Aya Khelloul 
-* Sara Mahdane Mouah 
 
 > *This project was developed as part of the Robotics Engineering degree at the University of Alicante.*
